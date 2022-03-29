@@ -21,11 +21,11 @@ a.titles {
 }
 
 .description{
-    font-size: 20px;;
+    font-size: 30px;;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 5%;
+    margin-top: 3%;
     text-align: center;
     width: 80%;
 }
@@ -46,10 +46,10 @@ img {
 }
 
 .recipe {
-    font-size: 20px;
+    font-size: 30px;
     display: block;
     width: 80%;
-    margin-left: 5%;
+    margin-left: 9%;
 }
 
 .end {
@@ -57,5 +57,5 @@ img {
     margin-top: 10%;
     margin-bottom: 5%;
     text-align: center;
-    font-size: 25px;
+    font-size: 35px;
 }
