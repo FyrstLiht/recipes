@@ -1,26 +1,61 @@
 h1 {
     font-size: 150px;
     text-align: center;
-    font-family: impact, sans-serif;
-}
-
-.heading {
-    font-size: 30px;
-    text-align: center;
     font-family: sans-serif;
-    color: black;
 }
 
-.description {
-    text-align: center;
+h2 {
+    text-align: center;    
+    font-size: 40px;
+    font-family: arial, sans-serif;
 }
 
-a {
-    color: black;
+a.titles {
     text-decoration: none;
+    color: black;
 }
 
-a:hover {
+.titles.index:hover {
     color: blue;
     text-decoration: underline;
+}
+
+.description{
+    font-size: 20px;;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    text-align: center;
+    width: 80%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 50%;
+    border-radius: 8px;
+  }
+
+.text {
+    font-family: arial, sans-serif;
+    color: black;
+}
+
+.recipe {
+    font-size: 20px;
+    display: block;
+    width: 80%;
+    margin-left: 5%;
+}
+
+.end {
+    display: block;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    text-align: center;
+    font-size: 25px;
 }
